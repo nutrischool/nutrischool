@@ -1,8 +1,8 @@
 {
-  "nutrischool1": "0",
-  "nutrischool2": "0",
-  "nutrischool3": "0",
-  "nutrischool":  [
+  "NutriSchool1": "1",
+  "NutriSchool2": "https://github.com/nutrischool/nutrischool/raw/master/release.apk",
+  "NutriSchool3": "com.pixel.gun3d,
+  "NutriSchool": [
 
   ]
 }
